@@ -4,14 +4,14 @@
 
 ## Weather App - PC
 
-**Installation (images on github)**
+**Installation**
 > 1. Press "Releases"
 > 2. Download the "calc.setup.exe" file
 > 3. Double click the .exe file and done
 
 ## Weather App - Mobile
 
-**Installation (images on github)**
+**Installation**
  - IOS
 
 1. Go to this link: https://melodic-cascaron-c61bd9.netlify.app/
