@@ -1,0 +1,8 @@
+directories:
+  output: dist
+  buildResources: build
+productName: Weather App
+win:
+  icon: appi.png
+files: []
+electronVersion: 25.5.0
